@@ -1,126 +1,167 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0b1220,100:00ff99&text=ROOT%20ACCESS%20:%20MR%20WORLD&fontColor=00ff99&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Digital%20Creator%20%7C%20Founder&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,40:200000,70:8b0000,100:ff0033&text=MR%20WORLD&fontColor=ff1a1a&fontSize=60&fontAlignY=37&desc=Senior%20Python%20Engineer%20%7C%20Full%20Stack%20Systems%20Developer%20%7C%20Linux%20Architect&descAlignY=58&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=%3E+Booting+Mr+World+Profile...;%3E+Secure+Connection+Established;%3E+Building+Scalable+Web+Platforms;%3E+Crafting+Automation+%26+API+Systems;%3E+Learning+Backend+Architecture+%26+Cyber+Security;%3E+Welcome+to+the+Digital+Terminal" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=900&color=FF1A1A&center=true&vCenter=true&width=1100&lines=%3E+Booting+Developer+Terminal...;%3E+Secure+Engineering+Profile+Loaded;%3E+Python+Engineering+%7C+Backend+Systems;%3E+Full+Stack+Architecture+%7C+Automation;%3E+Linux+Driven+Production+Infrastructure;%3E+Precision.+Performance.+Control."/>
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/System-Online-00ff99?style=for-the-badge&logo=statuspage&logoColor=black" />
-<img src="https://img.shields.io/badge/Mode-Hacker%20Aura-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=00ff99" />
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Automation-00c2ff?style=for-the-badge&logo=codeforces&logoColor=black" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-black?style=for-the-badge&logo=statuspage&logoColor=ff1a1a&labelColor=0f0f0f&color=8b0000"/>
+<img src="https://img.shields.io/badge/ROLE-SENIOR%20ENGINEER-black?style=for-the-badge&logo=python&logoColor=ff1a1a&labelColor=0f0f0f&color=8b0000"/>
+<img src="https://img.shields.io/badge/STACK-FULL%20STACK%20SYSTEMS-black?style=for-the-badge&logo=codefactor&logoColor=ff1a1a&labelColor=0f0f0f&color=8b0000"/>
 
 </div>
 
 ---
 
-## `whoami`
+# `whoami`
 
 ```bash
-> initializing profile...
-> identity confirmed...
-> access level: founder / developer / creator
+> initializing engineering identity...
+> loading system knowledge...
+> validating experience...
+> profile ready.
 ```
 
-```javascript
-const mrWorld = {
-  name: "Mr World",
-  role: "Programmer, Digital Marketer & Founder",
+```python
+class Engineer:
 
-  focus: [
-    "Scalable Web Platforms",
-    "Automation Tools",
-    "API Integrations",
-    "Backend Systems"
-  ],
+    def __init__(self):
 
-  currentlyLearning: [
-    "Advanced Backend Architectures",
-    "Cyber Security",
-    "Pentesting"
-  ],
+        self.name = "Mr World"
 
-  openTo: [
-    "Open Source Collaboration",
-    "Freelance Projects",
-    "Web Development",
-    "Linux Server Work"
-  ],
+        self.role = [
+            "Senior Python Engineer",
+            "Full Stack Developer",
+            "Backend Systems Architect"
+        ]
 
-  website: "https://itsmrworld.com",
+        self.experience = "6+ years real world engineering"
 
-  motto: "Build. Break. Secure. Scale."
-};
+        self.specialization = [
+            "Advanced Python Engineering",
+            "Backend System Architecture",
+            "Full Stack Platform Development",
+            "Linux Infrastructure",
+            "Automation Systems"
+        ]
 
-console.log("Status: 100% Operational");
+        self.engineering_mindset = [
+            "Design clean systems",
+            "Write maintainable code",
+            "Engineer for scale",
+            "Build with discipline"
+        ]
+
+engineer = Engineer()
+print("STATUS : OPERATIONAL")
 ```
 
 ---
 
-# `tech-stack --scan`
+# `engineering.identity`
+
+| Domain | Description |
+|------|-------------|
+| **Software Engineering** | Structured software systems designed for long-term scalability |
+| **Backend Systems** | Powerful server side logic and application flow |
+| **Linux Infrastructure** | Production environments, deployment pipelines and automation |
+| **Automation Engineering** | Intelligent systems that remove repetitive workflows |
+| **Platform Development** | End-to-end digital platforms with strong backend architecture |
+
+---
+
+# `tech-stack --deep-scan`
 
 <div align="center">
 
-### Core Languages
-<img src="https://skillicons.dev/icons?i=php,js,python,html,css,bash" />
+### Languages
+<img src="https://skillicons.dev/icons?i=python,php,js,html,css,bash"/>
 
-### Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,git,github,vscode,postman" />
+### Frameworks
+<img src="https://skillicons.dev/icons?i=django,flask,laravel,nodejs"/>
 
-### Database & Environment
-<img src="https://skillicons.dev/icons?i=mysql,linux,nginx,ubuntu" />
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+
+### Systems
+<img src="https://skillicons.dev/icons?i=linux,nginx,ubuntu"/>
 
 </div>
 
 ---
 
-# `mission.log`
-
-<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+# `engineering.manifesto`
 
 ```yaml
-current_mission:
-  - Building modern scalable web platforms
-  - Creating automation systems and API workflows
-  - Improving backend architecture knowledge
-  - Exploring cyber security and pentesting
+principles:
 
-collaboration_mode:
-  - Open Source Projects
-  - Business Websites
-  - REST API Integrations
-  - Linux Server Management
+  - write readable code
+  - design scalable architecture
+  - automate repetitive processes
+  - optimize for performance
+  - maintain clean engineering standards
 ```
 
-<br clear="right"/>
+---
+
+# `current.mission`
+
+```yaml
+focus:
+
+  - scalable backend systems
+  - automation driven platforms
+  - python based application engineering
+  - linux production environments
+  - full stack system architecture
+```
 
 ---
 
-# `github.stats()`
+# `project.matrix`
+
+| Project Zone | Description |
+|------|-------------|
+| Platform Engineering | Full stack scalable web platforms |
+| Automation Systems | Tools that automate complex workflows |
+| Backend Architecture | Server side systems and APIs |
+| Linux Operations | Deployment and infrastructure management |
+
+---
+
+# `github.analytics`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsmrworld&show_icons=true&bg_color=0d1117&title_color=00ff99&text_color=ffffff&icon_color=00ff99&border_color=00ff99" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=itsmrworld&show_icons=true&bg_color=000000&title_color=ff1a1a&text_color=ffffff&icon_color=ff1a1a&border_color=8b0000"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmrworld&layout=compact&bg_color=0d1117&title_color=00ff99&text_color=ffffff&border_color=00ff99" />
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://streak-stats.demolab.com?user=itsmrworld&background=0D1117&border=00ff99&stroke=00ff99&ring=00c2ff&fire=00ff99&currStreakLabel=00ff99&sideNums=ffffff&currStreakNum=ffffff&dates=aaaaaa&sideLabels=00ff99" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmrworld&layout=compact&bg_color=000000&title_color=ff1a1a&text_color=ffffff&border_color=8b0000"/>
 
 </div>
 
 ---
 
-# `achievements --unlocked`
+# `github.streak`
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=itsmrworld&theme=matrix&no-bg=true&margin-w=15&margin-h=15&column=4" />
+<img src="https://streak-stats.demolab.com?user=itsmrworld&background=000000&border=8b0000&stroke=ff1a1a&ring=ff3333&fire=ff1a1a"/>
+
+</div>
+
+---
+
+# `achievement.layer`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=itsmrworld&theme=onestar&margin-w=15&margin-h=15&column=4&no-bg=true"/>
 
 </div>
 
@@ -130,23 +171,43 @@ collaboration_mode:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsmrworld&bg_color=0d1117&color=00ff99&line=00c2ff&point=ffffff&area=true&border_color=00ff99" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmrworld&bg_color=000000&color=ff4d4d&line=ff1a1a&point=ffffff&area=true"/>
 
 </div>
 
 ---
 
-# `connect --protocol`
+# `contribution.snake`
+
+<div align="center">
+
+![snake gif](https://github.com/itsmrworld/itsmrworld/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# `connect`
 
 <div align="center">
 
 <a href="https://itsmrworld.com">
-<img src="https://img.shields.io/badge/Website-itsmrworld.com-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00ff99" />
+<img src="https://img.shields.io/badge/WEBSITE-itsmrworld.com-black?style=for-the-badge&logo=google-chrome&logoColor=ff1a1a&color=8b0000"/>
 </a>
 
 <a href="https://github.com/itsmrworld">
-<img src="https://img.shields.io/badge/GitHub-itsmrworld-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-itsmrworld-black?style=for-the-badge&logo=github&logoColor=white&color=8b0000"/>
 </a>
+
+</div>
+
+---
+
+# `visitor.counter`
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=itsmrworld&style=for-the-badge&color=ff1a1a&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -154,16 +215,8 @@ collaboration_mode:
 
 # `terminal.footer`
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=itsmrworld&style=for-the-badge&color=00ff99" />
-
-<br><br>
-
 ```bash
-> connection closed
-> session saved
-> keep building 🚀
+> system shutdown sequence initiated
+> logs stored successfully
+> engineering core remains active
 ```
-
-</div>
